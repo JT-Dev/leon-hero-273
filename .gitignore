@@ -1,0 +1,9 @@
+# Build and python stuff.
+build
+__pycache__
+*.pyc
+
+# Swap files.
+*~
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]

@@ -1,0 +1,32 @@
+******************************************************************************
+*                                                                            *
+*                                                                            *
+*                                                                            *
+*                                                                            *
+*       ^                                                                    *
+*       S__________________________                                          *
+*       s                         _                                          *
+*       s                         _                                          *
+*       s                         __________________                         *
+*       s                                          _                         *
+*       s                                          _                         *
+*       s                                          _________________         *
+*       s                                                                    *
+*       s                                                                    *
+*       s                              n                                     *
+*       s                            _____________________                   *
+*       s                                                                    *
+*       s                                                                    *
+*       s                    n                                               *
+*       s                  ____________________                              *
+*       s                                                                    *
+*       s                                                                    *
+*       s                                                                    *
+*       s                                                                    *
+*       s                                                                    *
+* E     s                                        SSSS                        *
+*       s                                      SSssssSS                      *
+SSSSSSSSs                                    SSssssssss                      *
+s P                                         Sssssssssss                      *
+s                           a              Ssssssssssss                      *
+sSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSssssssssssss                      *

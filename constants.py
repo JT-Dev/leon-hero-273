@@ -1,0 +1,63 @@
+#!/usr/bin/env python3
+
+import utils
+
+# Assets
+ASSET_DIR = "assets"
+
+# Full of dem constants
+GAME_NAME = "leon-hero-273"
+
+# Splash
+SPLASH_LENGTH = 3.14
+
+# Windows
+WIN_WIDTH = 640
+WIN_HEIGHT = 480
+
+# Cells
+CELL_WIDTH = 32
+CELL_HEIGHT = 32
+
+# Physics
+GRAVITY = 1.3
+FRICTION = 0.6
+RESISTANCE = 0.75
+
+# Player
+PLAYER_HEIGHT = CELL_HEIGHT * 2
+PLAYER_WIDTH = CELL_WIDTH
+
+PLAYER_ACCELERATION = 3.0
+PLAYER_JUMP_SPEED = 20.0
+PLAYER_MAX_JUMPS = 2.0
+PLAYER_MAX_SPEED = 24.0
+PLAYER_TERMINAL_SPEED = 35.0
+
+PLAYER_WALK_DELAY = 7
+PLAYER_EXPLOSION_DELAY = 7
+
+#Aeron Enemy
+ENEMY_AERON_JUMP_SPEED = 10
+ENEMY_AERON_MOVE_SPEED = 7
+
+#Sandwich Enemy
+ENEMY_SANDWICH_MOVE_SPEED = 2
+ENEMY_SANDWICH_MAX_SPEED = 10
+
+# Win screen
+WIN_PLAYER_SIZE = (320, 640)
+
+# End door
+END_WIDTH = 64
+END_HEIGHT = 64
+
+# Print levels
+VERBOSE = 0
+DEBUG   = 1
+INFO	= 2
+WARN	= 4
+ERROR   = 8
+
+# XXX: Change this to WARN in production.
+PRINT_LEVEL = DEBUG
